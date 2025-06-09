@@ -1,5 +1,4 @@
-[
-{
+[{
     "news":"Switch 2 Launch Prompts A Problem With Smash Bros. Ultimate, But A Fix Is Coming",
     "portal":"GameSpot",
     "link":"https://www.gamespot.com/articles/switch-2-launch-prompts-a-problem-with-smash-bros-ultimate-but-a-fix-is-coming/1100-6532151/"
@@ -148,5 +147,54 @@
     "news":"‘Enough is enough’: Hollywood’s video game actors go on strike",
     "portal":"The Guardian",
     "link":"https://www.theguardian.com/games/article/2024/jul/25/video-game-actors-strike-sag-aftra-ai"
-}
-]
+},
+{
+    "news":"SAG-AFTRA calls out 'alarming loopholes' in AI proposals from major game studios",
+    "portal":"Game Developer",
+    "link":"https://www.gamedeveloper.com/business/sag-aftra-strike-to-continue-due-to-alarming-loopholes-in-ai-proposals-from-major-game-studios"
+},
+{
+    "news":"PlayStation cancels exclusive game launch in this country after controversy",
+    "portal":"LevelUp",
+    "link":"https://www.levelup.com/en/news/775649/PlayStation-cancels-exclusive-game-launch-in-this-country-after-controversy/"
+},
+{
+    "news":"Google's inconsistent app-store gambling regulations come under fire",
+    "portal":"PocketGame.biz",
+    "link":"https://www.pocketgamer.biz/googles-inconsistent-app-store-stance-on-gambling-comes-under-fire/"
+},
+{
+    "news":"Microsoft Flight Simulator 2024 wasn’t prepared for takeoff",
+    "portal":"The Verge",
+    "link":"https://www.theverge.com/2024/11/20/24301358/microsoft-flight-simulator-2024-launch-day-issues"
+},
+{
+    "news":"2024 Was a Disastrous Year for Ubisoft: Flops, Delayed Releases and Alienating the Gaming Community",
+    "portal":"Beebom",
+    "link":"https://beebom.com/ubisoft-downfall-2024-recap/"
+},
+{
+    "news":"Pokémon studio’s action RPG Beast of Reincarnation launches in 2026",
+    "portal":"The Verge",
+    "link":"https://www.theverge.com/news/682371/beast-of-reincarnation-game-freak-xbox-games-showcase-trailer"
+},
+{
+    "news":"Baldur’s Gate 3 has yet another big patch on the way",
+    "portal":"The Verge",
+    "link":"https://www.theverge.com/2024/11/27/24307746/baldurs-gate-3-patch-8-cross-play-photo-mode"
+},
+{
+    "news":"The Persona 4 Remake Is Real And It's Called Revival",
+    "portal":"Game Informer",
+    "link":"https://www.gameinformer.com/xbox-games-showcase/2025/06/08/the-persona-4-remake-is-real-and-its-called-revival"
+},
+{
+    "news":"Resident Evil Requiem Is Arriving February 2026",
+    "portal":"Game Informer",
+    "link":"https://www.gameinformer.com/sgf-2025/2025/06/06/resident-evil-requiem-is-arriving-february-2026"
+},
+{
+    "news":"Nioh 3 announced for PS5, limited-time demo available today",
+    "portal":"PlayStation.blog",
+    "link":"https://blog.playstation.com/2025/06/04/nioh-3-announced-for-ps5-limited-time-demo-available-today/"
+}]
